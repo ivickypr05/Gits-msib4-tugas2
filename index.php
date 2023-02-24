@@ -183,9 +183,9 @@
                             <div class="subheading mb-2">At the Catur Insan Cendekia University</div>
                             <div>Captain Team Rise (UCIC) games categori Mobile Legends Bang-bang</div>
                             <button class="btn btn-light border-0 shadow text-primary main-color btn-certificate"
-                            onclick="showCertificate('.. assets/img/certificate/radcertif.jpg', 'Junior Graphic Designer', 'BNSP Indonesia')">Certificate/Photo</button>
+                            onclick="Certificate('.. assets/img/certificate/radcertif.jpg', 'Junior Graphic Designer', 'BNSP Indonesia')">Certificate/Photo</button>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary"> November 2021 - until now</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary"> November 2021 - Present</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
@@ -193,9 +193,9 @@
                             <div class="subheading mb-2">At the Catur Insan Cendekia University</div>
                             <div>Center position in the basketball team UCIC</div>
                             <button class="btn btn-light border-0 shadow text-primary main-color btn-certificate"
-                            onclick="showCertificate('assets/img/certificate/radcertif.jpg', 'Junior Graphic Designer', 'BNSP Indonesia')">Certificate/Photo</button>
+                            onclick="Certificate('assets/img/certificate/radcertif.jpg', 'Junior Graphic Designer', 'BNSP Indonesia')">Certificate/Photo</button>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary"> September 2022 - until now</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary"> September 2022 - Present </span></div>
                     </div>
                 </div>
             </section>
@@ -256,5 +256,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
+        <!-- cdn SweetAlert2 -->
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     </body>
 </html>
