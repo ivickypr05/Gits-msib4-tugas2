@@ -5,4 +5,5 @@
 '**Catur Insan Cendekia University**'
 
 #Screenshot_WEB
-image.png
+
+<img src="assets/img/ssweb.png" alt="Screenshot-Web-Profile">
