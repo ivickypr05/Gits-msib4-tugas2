@@ -3,7 +3,7 @@
 function Certificate(imgSrc, field, from) {
   Swal.fire({
     title: field,
-    text: "$from",
+    text: from,
     imageUrl: imgSrc,
     imageWidth: "70%",
     imageAlt: "Certificate-Img",

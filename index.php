@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>VCiky</title>
+        <title>V.Ciky</title>
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
@@ -19,6 +19,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                
                 <span class="d-block d-lg-none">Iko Vicky Pratama</span>
                 <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/vicky.jpg" alt="..." /></span>
             </a>
@@ -39,13 +40,14 @@
             <!-- About-->
             <section class="resume-section" id="about">
                 <div class="resume-section-content">
+                <span class="d-block d-lg-none"><img class="img-fluid rounded-circle mx-auto mb-2" style="height : 200px;" src="assets/img/vicky.jpg" alt="..." /></span>
                     <h1 class="mb-0">
                         Iko
                         <span class="text-primary">Vicky</span>
                         Pratama
                     </h1>
                     <div class="subheading mb-4">
-                        place of birth • Cirebon, 5 September 2022 • I'm 20 Years Old ^_^
+                        place of birth • Cirebon, 5 September 2022 • I'm 20 Years Old
                     </div>
                     <p class="lead mb-5">From a young age I have loved everything about Technology Science, until the Study Program I took at 
                         Vocational high School was Computer Network Engineering and continued until now in college I took the 
@@ -172,7 +174,7 @@
                             <div class="subheading mb-2">At the Catur Insan Cendekia University</div>
                             <div>Resource and Development coordinator</div>
                             <button class="btn btn-light border-0 shadow text-primary main-color btn-certificate"
-                            onclick="Certificate('../assets/img/certificate/radcertif.jpg', 'Resource and Development Coordinator', 'HIMATIF')">Certificate/Photo</button>
+                            onclick="Certificate('assets/img/certificate/rad.jpg', 'Resource and Development Coordinator', 'HIMATIF UCIC')">Certificate/Photo</button>
 
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">Januari 2022 - Januari 2023</span></div>
@@ -183,7 +185,7 @@
                             <div class="subheading mb-2">At the Catur Insan Cendekia University</div>
                             <div>Captain Team Rise (UCIC) games categori Mobile Legends Bang-bang</div>
                             <button class="btn btn-light border-0 shadow text-primary main-color btn-certificate"
-                            onclick="Certificate('.. assets/img/certificate/radcertif.jpg', 'Junior Graphic Designer', 'BNSP Indonesia')">Certificate/Photo</button>
+                            onclick="Certificate('assets/img/esport.jpg', 'Team Rise to Heaven', 'UCIC E-Sport')">Certificate/Photo</button>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary"> November 2021 - Present</span></div>
                     </div>
@@ -193,7 +195,7 @@
                             <div class="subheading mb-2">At the Catur Insan Cendekia University</div>
                             <div>Center position in the basketball team UCIC</div>
                             <button class="btn btn-light border-0 shadow text-primary main-color btn-certificate"
-                            onclick="Certificate('assets/img/certificate/radcertif.jpg', 'Junior Graphic Designer', 'BNSP Indonesia')">Certificate/Photo</button>
+                            onclick="Certificate('assets/img/basket.jpg', 'Basket Ball', 'Catur Insan Cendekia University')">Certificate/Photo</button>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary"> September 2022 - Present </span></div>
                     </div>
@@ -210,19 +212,19 @@
                             Contributor in International Quotes Writing Competition - Eduvement.id
                         </li>
                         <button class="btn btn-light border-0 shadow text-primary main-color btn-certificate mb-3"
-                            onclick="Certificate('../assets/img/certificate/radcertif.jpg', 'Resource and Development Coordinator', 'HIMATIF')">Certificate</button>
+                            onclick="Certificate('assets/img/certificate/contributor.jpg', 'Contributor', 'International Competition')">Certificate</button>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             Creative Creator in International Quotes Writing Competition - Eduvement.id
                         </li>
                         <button class="btn btn-light border-0 shadow text-primary main-color btn-certificate mb-3"
-                            onclick="Certificate('../assets/img/certificate/radcertif.jpg', 'Resource and Development Coordinator', 'HIMATIF')">Certificate</button>
+                            onclick="Certificate('assets/img/certificate/creator.jpg', 'Creative Creator', 'International Competition')">Certificate</button>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             Highest GPA in Informatics Engineering major - Catur Insan Cendekia University 2022
                         </li>
                         <button class="btn btn-light border-0 shadow text-primary main-color btn-certificate mb-3"
-                            onclick="Certificate('../assets/img/certificate/radcertif.jpg', 'Resource and Development Coordinator', 'HIMATIF')">Certificate</button>
+                            onclick="Certificate('assets/img/certificate/greatgpa.jpg', 'Highest GPA in Informatics Engineering major', 'Catur Insan Cendekia University')">Certificate</button>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             1
@@ -230,7 +232,7 @@
                             Place - MLBB Competition - Semarak UCIC 2023
                         </li>
                         <button class="btn btn-light border-0 shadow text-primary main-color btn-certificate mb-3"
-                            onclick="Certificate('../assets/img/certificate/radcertif.jpg', 'Resource and Development Coordinator', 'HIMATIF')">Certificate</button>
+                            onclick="Certificate('assets/img/certificate/risesemarak.jpg', '1st Place region 3 Cirebon Competition', 'Semarak UCIC')">Certificate</button>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             1
@@ -238,7 +240,7 @@
                             Place - MLBB Competition - SupperChallenge Dare to Win 2021
                         </li>
                         <button class="btn btn-light border-0 shadow text-primary main-color btn-certificate mb-3"
-                            onclick="Certificate('../assets/img/certificate/radcertif.jpg', 'Resource and Development Coordinator', 'HIMATIF')">Certificate</button>
+                            onclick="Certificate('assets/img/certificate/thedoctor.jpg', '1st Place Djarum Super Competition', 'SupperChalleng Dare to Win')">Certificate</button>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             3
@@ -246,7 +248,7 @@
                             Place - Pencak Silat Class E - Pop Kota 2017, Cirebon
                         </li>
                         <button class="btn btn-light border-0 shadow text-primary main-color btn-certificate mb-3"
-                            onclick="Certificate('../assets/img/certificate/radcertif.jpg', 'Resource and Development Coordinator', 'HIMATIF')">Certificate</button>
+                            onclick="Certificate('assets/img/certificate/silat.jpg', '3th Place Pencak Silat Competition', 'POPKOTA Cirebon')">Certificate</button>
                     </ul>
                 </div>
             </section>
@@ -256,6 +258,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
+        <script src="js/custom.js"></script>
         <!-- cdn SweetAlert2 -->
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
         
