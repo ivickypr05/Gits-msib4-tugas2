@@ -252,6 +252,9 @@
                     </ul>
                 </div>
             </section>
+            <div class="footer-bottom__copyright my-2 text-center">
+                &COPY; COPYRIGHT 2023 BY <a href=" https://github.com/ivickypr05" target="_blank">IKO VICKY PRATAMA</a>
+              </div>
         </div>
         
         <!-- Bootstrap core JS-->
