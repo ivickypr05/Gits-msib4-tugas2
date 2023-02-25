@@ -1,4 +1,4 @@
-#Nama
-Iko Vicky Pratama
-#Campus
-Catur Insan Cendekia University
+#Nama :
+'**Iko Vicky Pratama**'
+#Campus :
+'**Catur Insan Cendekia University**'
